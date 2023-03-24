@@ -1,0 +1,2 @@
+from .base_env import BaseNumberGuessingEnv
+from .magnitude_env import MagnitudeGuessingEnv
